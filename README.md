@@ -38,7 +38,7 @@
 在你的仓库里，依次进入：
 Settings → Secrets and variables → Actions → New repository secret
 
-添加以下 4 个 Secrets：
+添加以下 3 个 Secrets：
 
 | 名称 | 说明 |
 |------|------|
